@@ -5,6 +5,9 @@ for knowledge portals that are built with MediaWiki and have a Google Analytics
 account. Some knowledge about Python and MySQL is needed to modify this code
 to work with your site.
 
+A detailed description of the algorithms can be found in the following
+research paper: https://www.academia.edu/13556023/Effective_recommendation_in_knowledge_portals
+
 == Instructions ==
 
 Create a demo_recommendations table in your MediaWiki database to store the recommendations in.
